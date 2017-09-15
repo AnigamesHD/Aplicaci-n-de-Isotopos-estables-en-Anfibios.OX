@@ -36,3 +36,6 @@ http://www.academia.edu/1859086/Is%C3%B3topos_estables_una_alternativa_en_los_es
 https://huilohuilo.com/investigando-sobre-la-ranita-de-darwin/
 
 
+ El procedimiento general de recolecta y preparación de
+las muestras está descrito en
+
